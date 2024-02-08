@@ -2,8 +2,6 @@
 
 This is a take home assignment in electron.js for a prospective candidate.
 
-The template (Webpack + Typescript + React) for this project was created using [Electron Forge](https://www.electronforge.io/). Please also reference [Electron](https://www.electronjs.org/) and [React](https://reactjs.org/) for more information.
-
 ## Pre-requisites
 
 [Node.js](https://nodejs.org/en/)
