@@ -12,6 +12,8 @@ I have attached two png files called "finalResultGreet.png" and "finalResultSqua
 
 Feel free to install any dependencies and refactor any code you need to complete the assignment.
 
+Once you have completed the assignment, please send us a link to your forked repository that is on your personal GitHub account.
+
 ## Pre-requisites
 
 [Node.js](https://nodejs.org/en/)
@@ -19,7 +21,7 @@ Feel free to install any dependencies and refactor any code you need to complete
 
 ## Installation
 
-1. Clone the repository
+1. Fork the repository to your personal GitHub account and clone
 2. Install dependencies
 
 ```bash
